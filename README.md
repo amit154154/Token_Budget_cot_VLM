@@ -53,4 +53,6 @@ This project extends the work presented in the paper [Token-Budget-Aware LLM Rea
 
 For an in-depth look at the results, see our [Weights & Biases report](https://api.wandb.ai/links/amit154154/9sa4u3th).
 
+<img src="assets/budget_predictor_example.png" alt="budget_predictor_example" style="max-width: 100%;" />
+
 ---
